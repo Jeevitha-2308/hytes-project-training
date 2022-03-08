@@ -1,0 +1,7 @@
+print("my first task")
+a=int(input("enter the first num:"))
+b=int(input("enter the second num:"))
+print("addition is:",a+b)
+print("subtraction is:",a-b)
+print("multiplication is:",a*b)
+print("division is:",a/b)

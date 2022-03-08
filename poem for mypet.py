@@ -1,0 +1,1 @@
+Love a special thing You can love someone like your parents family Even your grandparentLovespecial  every way,the timeLove great
